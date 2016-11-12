@@ -1,2 +1,3 @@
-# android_build
-Android Build System (ddroidd)
+# << ddroidd >> build system
+
+<< **ddroidd** >> build system.
